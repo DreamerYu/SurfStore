@@ -49,4 +49,4 @@ It consists of three types of processes: client processes, a BlockStore process,
    python metastore.py config.txt
    ```
 
-starter code Copyright (C) George Porter, 2018, 2019.
+starter code Copyright (C) George Porter, 2018-2019.
