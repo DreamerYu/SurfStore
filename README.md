@@ -1,2 +1,2 @@
 # SurfStore
-A Distributed Storage System like Dropbox.
+A DropBox-like distributed file service using RPyC.
